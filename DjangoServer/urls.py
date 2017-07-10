@@ -18,12 +18,14 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.views.generic.base import RedirectView
+
 from . import view
+from Blog.views import *
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$',view.hello),#主页
     url(r'^favicon.ico$',RedirectView.as_view(url=r'static/favicon.ico')),
+    url(r'^blogs/',get_blogs),
+    url(r'^detail/(\d+)/$',get_details ,name='blog_get_detail'),
 ]
-
-
