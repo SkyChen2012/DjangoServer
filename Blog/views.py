@@ -16,6 +16,7 @@ def get_details(request,blog_id):
         blog = Blog.objects.get(id=blog_id)
     except Blog.DoesNotExist:
         raise Http404
+    
     if request.method == 'GET':
         form = CommentForm()
     else:
@@ -24,9 +25,9 @@ def get_details(request,blog_id):
             cleaned_data = form.cleaned_data
             cleaned_data['blog'] = blog
             Comment.objects.create(**cleaned_data)
-    ctx = {
-        'blog':blog,
-        'comments':blog.comment_set.all().order_by('-created'),
-        'form':form
-    }
+            ctx = {
+                'blog':blog,
+                'comments':blog.comment_set.all().order_by('-created'),
+                'form':form
+            }
     return render(request,'blog_details.html',ctx)

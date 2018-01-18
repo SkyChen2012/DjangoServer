@@ -24,15 +24,10 @@ from Blog.views import *
 from blogpost.views import *
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^hello/$',view.hello),#主页
     url(r'^favicon.ico$',RedirectView.as_view(url=r'static/favicon.ico')),
-    # blog_1
-    url(r'^blogs/',get_blogs),
-    url(r'^detail/(\d+)/$',get_details ,name='blog_get_detail'),
-    # blog_2
-    url(r'^$',index),
-    url(r'^blog/(?P<slug>[^\.]+).html', view_post, name='view_blog_post'),
     #
     url(r'^pages/', include('django.contrib.flatpages.urls')),
 
+    url(r'^blog/',include('blogpost.urls')),
+    url(r'^Blog/',include('Blog.urls')),      
 ]
