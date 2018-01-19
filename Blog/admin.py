@@ -1,9 +1,24 @@
-# -*- coding: utf-8 -*-
-from __future__ import unicode_literals
-
 from django.contrib import admin
 
 # Register your models here.
-from Blog.models import *
-# 注册的目的就是为了让系统管理员能对注册的这些模型进行管理
-admin.site.register([Catagory,Tag,Blog])
+
+
+from blog.models import Tag, Article, Category
+
+
+@admin.register(Article)
+class ArticleAdmin(admin.ModelAdmin):
+    date_hierarchy = 'date_time'
+    list_display = ('title', 'category', 'author', 'date_time', 'view')
+    list_filter = ('category', 'author')
+    filter_horizontal = ('tag',)
+
+
+@admin.register(Category)
+class CategoryAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(Tag)
+class TagAdmin(admin.ModelAdmin):
+    pass
