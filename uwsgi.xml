@@ -1,5 +1,5 @@
 <uwsgi>
-<socket>0.0.0.0:8000</socket>
+<socket>0.0.0.0:8077</socket>
 <listen>20</listen>
 <master>true</master>
 <pidfile>/etc/nginx/uwsgi.pid</pidfile>
