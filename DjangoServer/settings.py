@@ -42,8 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites', # add “sites”框架
     'django.contrib.flatpages', # add "flatpages”应用
-    'blogpost',	
-    'Blog',
+    'blogpost',
 ]
 
 MIDDLEWARE = [

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5af283e-012d-408a-b123-e266cbc99383" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/context_processors.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/images/main-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/images/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/images/tail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/plane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/tail-end.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/404/weibo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/archives/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/archives/thumb_be.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/archives/timeline_be.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/animation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/font-icon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/markdown.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/public.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/skin_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/skin_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/css/skin_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/cur/default.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/cur/link.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/font/elusiveicons-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/font/elusiveicons-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/font/elusiveicons-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/font/elusiveicons-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/bg0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/blueprint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/mob-bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/nav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/nopic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/repeat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/bgimg/topbg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/favicon_.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/huang.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/Hot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/arr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/arr2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/ava.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/back-top-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/bd-fx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/hot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/new-sanjiao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/new.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/ok.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/qq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/tj.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/tj2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/user.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/icon/zhifu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/images/logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/album.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/checkform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/jquery.2.1.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/extend/layer.ext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/skin/default/icon-ext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/skin/default/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/skin/default/loading-0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/skin/default/loading-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/skin/default/loading-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/skin/layer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/layer/skin/layer.ext.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/skin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/superbg-custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/superbg.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/js/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201619202649837.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411191949465.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411192440877.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201641119257341.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411192937540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411211811736.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411214939748.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411215627427.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411215648174.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201641121569924.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411215726890.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201641121577471.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411221137177.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201641122121653.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411221239433.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016411221316981.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201641122132200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016514234757354.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/2016514234824383.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201651423736426.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/201651423842491.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/photos/pic/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/prism/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/prism/prism.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/20151027223049329.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/20151031043822.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/20151122225540180.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/20151179957593.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/2016110221135307.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/201612125156754.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/201612219920733.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/2016219171445519.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/2016220122735603.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/201651122145632.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/lb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/static/upload/Article/muban.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/articles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/blogroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/message.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/message_board.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/right.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/blog/tag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templates/sitemap.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templatetags/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/templatetags/custom_filter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/views.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoServer/settings.py" afterPath="$PROJECT_DIR$/DjangoServer/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoServer/urls.py" afterPath="$PROJECT_DIR$/DjangoServer/urls.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DjangoServer/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogpost/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DjangoServer/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Blog/tests.py" />
+        <option value="$PROJECT_DIR$/Blog/context_processors.py" />
+        <option value="$PROJECT_DIR$/DjangoServer/settings.py" />
+        <option value="$PROJECT_DIR$/DjangoServer/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogpost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DjangoServer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DjangoServer" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DjangoServer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DjangoServer" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5af283e-012d-408a-b123-e266cbc99383" name="Default" comment="" />
+      <created>1516702115347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516702115347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/context_processors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/templatetags/custom_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uwsgi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walkerfree">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogpost/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogpost/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogpost/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DjangoServer/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogpost/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DjangoServer/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

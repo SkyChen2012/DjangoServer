@@ -29,5 +29,4 @@ urlpatterns = [
     url(r'^pages/', include('django.contrib.flatpages.urls')),
 
     url(r'^blog/',include('blogpost.urls')),
-    url(r'^Blog/',include('Blog.urls')),      
 ]
